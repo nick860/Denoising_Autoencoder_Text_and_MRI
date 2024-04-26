@@ -12,3 +12,5 @@ Data Augmentation (MRI): Employs AddNoise.py (a custom function) to simulate rea
 PyTorch
 NumPy
 Matplotlib (or other visualization library)
+dataset2 (the MRI dataset) - https://drive.google.com/drive/folders/16ib8AuyOE9qH6DtvJ0uQl6H5XXM-JkAe?usp=drive_link
+dataset (the hand written dataset) - https://drive.google.com/drive/folders/1IDP1wsm4lKHu_6o2huQYwu5-5VGfkzSY?usp=drive_link
